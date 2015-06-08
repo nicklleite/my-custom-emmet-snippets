@@ -1,0 +1,23 @@
+{
+	"snippets": {
+		"html": {
+			"snippets": {
+				"_comment": "Bootstrap CSS & JavaScript Libs",
+				"bs:css": "<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css\" />",
+				"bs:js": "<script type=\"text/javascript\" language=\"JavaScript\" src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js\"></script>",
+
+				"_comment": "jQuery Lib",
+				"jq:lib": "<script type=\"text/javascript\" language=\"JavaScript\" src=\"http://code.jquery.com/jquery-2.1.4.min.js\"></script>",
+
+				"_comment": "Font Awesome Lib & Snippet for an icon",
+				"fa:lib": "<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css\" />",
+				"fa:icon": "<i class=\"fa fa-|\"></i>"
+			}
+		},
+		"css": {
+			"snippets": {
+	  			"cmnt:sec": "/**\n*----------------------------------------- \n* ${1:Section} \n*-----------------------------------------\n*/\n"
+			}
+		}
+	}
+}
